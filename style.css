@@ -680,7 +680,8 @@ li.social-links a {
 }
 
 .section.db {
-    background-color: #1f1f1f;
+   
+    background-image: url(./uploads/geometrico.jpg) ;
 }
 
 .section.color1 {
@@ -728,7 +729,7 @@ li.social-links a {
 }
 
 .section-title p {
-    color: #999;
+    color: #181818;
     font-weight: 400;
     font-size: 18px;
     line-height: 33px;
@@ -747,7 +748,7 @@ li.social-links a {
 .section.colorsection p,
 .section.colorsection h3,
 .section.db h3 {
-    color: #ffffff;
+    color: #181818;
 }
 
 .service-widget{
@@ -935,7 +936,7 @@ li.social-links a {
 
 .testimonial h4 {
     font-size: 18px;
-    color: #ffffff;
+    color: #181818;
     padding: 13px 0 0;
 }
 
