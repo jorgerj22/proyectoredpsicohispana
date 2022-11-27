@@ -572,6 +572,7 @@ li.social-links a {
 .slider-wrapper .owl-nav .owl-prev {
     margin-left: 0%;
 	left: 0px;
+    top: 200px;
 	position: absolute;
 }
 
@@ -588,6 +589,7 @@ li.social-links a {
 .slider-wrapper .owl-nav .owl-next {
     margin-right: 0%;
     right: 0;
+    top: 200px;
 	position: absolute;
 }
 
