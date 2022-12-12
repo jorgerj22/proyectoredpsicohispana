@@ -2813,7 +2813,7 @@ select.mobile-device {
 -------------------------------------------------------------------*/
 
 .fixed-menu .navbar-default{
-	position: fixed;
+	position: relative;
 	visibility: hidden;
 	left: 0px;
 	top: 0px;
