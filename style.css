@@ -76,6 +76,10 @@ a {
     height: auto;
 }
 
+p {
+    text-align: justify;
+}
+
 h1,
 h2,
 h3,
